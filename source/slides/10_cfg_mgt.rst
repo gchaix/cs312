@@ -119,7 +119,6 @@ CM Platform Comparison
   - Using ruby offers both its advantages and disadvantages
 
 - Each platform offers its own level of complexity
-=======
 
 DevOps workflow in an agency environment
 ========================================
@@ -135,9 +134,9 @@ Director of Technology
 Tools @ Squishy
 ===============
 
- * GitlLab & GitLab CI - http://gitlab.com
- * Puppet - http://puppetlabs.com
- * Vagrant - http://vagrantup.com
+* GitlLab & GitLab CI - http://gitlab.com
+* Puppet - http://puppetlabs.com
+* Vagrant - http://vagrantup.com
 
 Workflow @ Squishy
 ==================
