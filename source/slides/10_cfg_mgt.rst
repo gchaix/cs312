@@ -183,6 +183,6 @@ Workflow @ Squishy
 What works?  What doesn't?
 --------------------------
 
- * Puppet & Vagrant
- * Code review
- * CI & Drupal
+* Puppet & Vagrant
+* Code review
+* CI & Drupal
